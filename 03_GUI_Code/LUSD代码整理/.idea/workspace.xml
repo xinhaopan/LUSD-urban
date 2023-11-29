@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8cbe2c1-5c2a-4b10-8d86-cc7a5021c98f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FutureLandUseSim_v2PythonCode$step7_final_.coverage" NAME="step7(final) Coverage Results" MODIFIED="1575713228854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/LUSD$mian3.coverage" NAME="mian3 Coverage Results" MODIFIED="1576567693665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FutureLandUseSim_v2PythonCode$mian2.coverage" NAME="mian2 Coverage Results" MODIFIED="1576327893144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/LUSD$main.coverage" NAME="main Coverage Results" MODIFIED="1576576597054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FutureLandUseSim_v2PythonCode$mian2_1.coverage" NAME="mian2_1 Coverage Results" MODIFIED="1576154519477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/FutureLandUseSim_v2PythonCode$FLUS_model.coverage" NAME="FLUS_model Coverage Results" MODIFIED="1575805552278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/FutureLandUseSim_v2PythonCode$mian3.coverage" NAME="mian3 Coverage Results" MODIFIED="1576313883060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/FutureLandUseSim_v2PythonCode$FutureLandUseSim_v2PythonCode.coverage" NAME="FutureLandUseSim_v2PythonCode Coverage Results" MODIFIED="1575673472232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/LUSD$LUSD.coverage" NAME="LUSD Coverage Results" MODIFIED="1578823122603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LUSD$LUSD2.coverage" NAME="LUSD2 Coverage Results" MODIFIED="1576578061377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LUSD$mian2.coverage" NAME="mian2 Coverage Results" MODIFIED="1576567647285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e5ENWemRnJhIvHaJ6dlMQwVzcJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mr.Pan\Work\LUSD\LUSD代码整理\GUI" />
+      <recent name="D:\Mr.Pan\Work\FutureLandUseSim_v2PythonCode" />
+      <recent name="D:\Mr.Pan\Work\FutureLandUseSim_v2PythonCode\res" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.LUSD">
+    <configuration name="LUSD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FutureLandUseSim_v2PythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUIFile" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LUSD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LUSD2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FutureLandUseSim_v2PythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LUSD2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="FutureLandUseSim_v2PythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.LUSD" />
+      <item itemvalue="Python.LUSD2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LUSD" />
+        <item itemvalue="Python.LUSD2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8cbe2c1-5c2a-4b10-8d86-cc7a5021c98f" name="Default Changelist" comment="" />
+      <created>1575673293345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575673293345</updated>
+      <workItem from="1575673295353" duration="64390000" />
+      <workItem from="1575781848233" duration="63926000" />
+      <workItem from="1575899697694" duration="285000" />
+      <workItem from="1575947394968" duration="31182000" />
+      <workItem from="1576050889917" duration="10061000" />
+      <workItem from="1576123144951" duration="17725000" />
+      <workItem from="1576210675452" duration="712000" />
+      <workItem from="1576211430429" duration="33940000" />
+      <workItem from="1576322347629" duration="4325000" />
+      <workItem from="1576328076053" duration="2271000" />
+      <workItem from="1576391341286" duration="6303000" />
+      <workItem from="1576485274556" duration="849000" />
+      <workItem from="1576566177608" duration="21248000" />
+      <workItem from="1576733301182" duration="4989000" />
+      <workItem from="1576915512505" duration="331000" />
+      <workItem from="1577361613308" duration="44000" />
+      <workItem from="1577683959929" duration="7685000" />
+      <workItem from="1578554106468" duration="294000" />
+      <workItem from="1578580678327" duration="2476000" />
+      <workItem from="1578646920019" duration="3246000" />
+      <workItem from="1578654374352" duration="1773000" />
+      <workItem from="1578656193805" duration="814000" />
+      <workItem from="1578818233685" duration="4767000" />
+      <workItem from="1593603020884" duration="2566000" />
+      <workItem from="1593758884027" duration="601000" />
+      <workItem from="1593860733949" duration="420000" />
+      <workItem from="1594104426654" duration="5021000" />
+      <workItem from="1594463144462" duration="2314000" />
+      <workItem from="1594539497626" duration="2280000" />
+      <workItem from="1594607098702" duration="4918000" />
+      <workItem from="1594712925872" duration="2493000" />
+      <workItem from="1594991318355" duration="1298000" />
+      <workItem from="1595426993378" duration="494000" />
+      <workItem from="1595486008481" duration="1813000" />
+      <workItem from="1615724923210" duration="755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="30" key="#LUSD" timestamp="1593603046824">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="30" key="#LUSD/0.0.1536.834@0.0.1536.834" timestamp="1593603046824" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594110884537">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1594110884537" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595486443769">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1595486443769" />
+    <state x="1048" y="226" key="#xdebugger.evaluate" timestamp="1594992236268">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1048" y="226" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1594992236268" />
+    <state x="503" y="178" key="EnvironmentVariablesDialog" timestamp="1593603067613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="503" y="178" key="EnvironmentVariablesDialog/0.0.1536.834@0.0.1536.834" timestamp="1593603067613" />
+    <state x="548" y="172" key="FileChooserDialogImpl" timestamp="1594110879307">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594110879307" />
+    <state width="1478" height="120" key="GridCell.Tab.0.bottom" timestamp="1595487945430">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="120" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595487945430" />
+    <state width="1478" height="120" key="GridCell.Tab.0.center" timestamp="1595487945430">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="120" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595487945430" />
+    <state width="1478" height="120" key="GridCell.Tab.0.left" timestamp="1595487945430">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="120" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595487945430" />
+    <state width="1478" height="120" key="GridCell.Tab.0.right" timestamp="1595487945430">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="120" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595487945430" />
+    <state width="1478" height="237" key="GridCell.Tab.1.bottom" timestamp="1594992206939">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="237" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594992206939" />
+    <state width="1478" height="237" key="GridCell.Tab.1.center" timestamp="1594992206939">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="237" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594992206939" />
+    <state width="1478" height="237" key="GridCell.Tab.1.left" timestamp="1594992206938">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="237" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594992206938" />
+    <state width="1478" height="237" key="GridCell.Tab.1.right" timestamp="1594992206939">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="237" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594992206939" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1594713123921">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594713123921" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/panxi/Desktop/FLUS_model.py</url>
+          <line>339</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WindowFile/mainWindow.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WindowFile/Prediction_area.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WindowFile/Simulation.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WindowFile/Simulation.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LUSD$LUSD.coverage" NAME="LUSD Coverage Results" MODIFIED="1595487945417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUIFile" />
+  </component>
+</project>

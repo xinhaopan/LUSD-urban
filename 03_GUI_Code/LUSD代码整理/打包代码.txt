@@ -1,0 +1,1 @@
+pyinstaller -F -w -i ./res/logo.ico LUSD.py --hidden-import=cython --hidden-import=sklearn --hidden-import=sklearn.utils._cython_blas -p C:/Users/panxi/AppData/Local/Programs/Python/Python37/Lib/site-packages

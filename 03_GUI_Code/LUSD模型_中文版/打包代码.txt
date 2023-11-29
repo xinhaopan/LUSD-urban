@@ -1,0 +1,18 @@
+pyinstaller -F -i ./res/logo1.ico mian2.py  --hidden-import=statsmodels.tsa.statespace._filters._univariate_diffuse --hidden-import=statsmodels.tsa.statespace._kalman_filter --hidden-import=statsmodels.tsa.statespace._kalman_smoother --hidden-import=statsmodels.tsa.statespace._representation --hidden-import=statsmodels.tsa.statespace._simulation_smoother --hidden-import=statsmodels.tsa.statespace._statespace --hidden-import=statsmodels.tsa.statespace._tools --hidden-import=statsmodels.tsa.statespace._filters._conventional --hidden-import=statsmodels.tsa.statespace._filters._inversions --hidden-import=statsmodels.tsa.statespace._filters._univariate --hidden-import=statsmodels.tsa.statespace._smoothers._alternative --hidden-import=statsmodels.tsa.statespace._smoothers._classical --hidden-import=statsmodels.tsa.statespace._smoothers._conventional --hidden-import=statsmodels.tsa.statespace._smoothers._univariate
+
+pyinstaller -F -i ./res/logo1.ico mian2.py  --hidden-import=statsmodels.tsa.statespace._filters._univariate_diffuse
+
+import sys
+sys.setrecursionlimit(5000)
+
+pyinstaller --clean -y mian2.py
+
+statsmodels.tsa.statespace._filters._univariate_diffuse
+statsmodels.tsa.statespace._statespace
+
+pyi-makespec mian2.py -F -i ./res/logo1.ico --hidden-import=statsmodels.tsa.statespace._filters._univariate_diffuse --hidden-import=statsmodels.tsa.statespace._kalman_filter --hidden-import=statsmodels.tsa.statespace._kalman_smoother --hidden-import=statsmodels.tsa.statespace._representation --hidden-import=statsmodels.tsa.statespace._simulation_smoother --hidden-import=statsmodels.tsa.statespace._statespace --hidden-import=statsmodels.tsa.statespace._tools --hidden-import=statsmodels.tsa.statespace._filters._conventional --hidden-import=statsmodels.tsa.statespace._filters._inversions --hidden-import=statsmodels.tsa.statespace._filters._univariate --hidden-import=statsmodels.tsa.statespace._smoothers._alternative --hidden-import=statsmodels.tsa.statespace._smoothers._classical --hidden-import=statsmodels.tsa.statespace._smoothers._conventional --hidden-import=statsmodels.tsa.statespace._smoothers._univariate
+
+pyinstaller -F -i ./res/logo1.ico mian2.spec --hidden-import=statsmodels.tsa.statespace._filters._univariate_diffuse --hidden-import=statsmodels.tsa.statespace._kalman_filter --hidden-import=statsmodels.tsa.statespace._kalman_smoother --hidden-import=statsmodels.tsa.statespace._representation --hidden-import=statsmodels.tsa.statespace._simulation_smoother --hidden-import=statsmodels.tsa.statespace._statespace --hidden-import=statsmodels.tsa.statespace._tools --hidden-import=statsmodels.tsa.statespace._filters._conventional --hidden-import=statsmodels.tsa.statespace._filters._inversions --hidden-import=statsmodels.tsa.statespace._filters._univariate --hidden-import=statsmodels.tsa.statespace._smoothers._alternative --hidden-import=statsmodels.tsa.statespace._smoothers._classical --hidden-import=statsmodels.tsa.statespace._smoothers._conventional --hidden-import=statsmodels.tsa.statespace._smoothers._univariate
+
+可用：
+pyinstaller -F -w -i ./res/logo2.ico mian2.py --hidden-import=cython --hidden-import=sklearn --hidden-import=sklearn.utils._cython_blas

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="res/">
+        <file alias="logo1.png">res/logo1.png</file>
+        <file alias="Full.png">res/Full.png</file>
+        <file alias="Open.png">res/Open.png</file>
+        <file alias="Pan.png">res/Pan.jpg</file>
+        <file alias="Zoomin.png">res/Zoomin.jpg</file>
+        <file alias="Zoomout.png">res/Zoomout.jpg</file>
+        <file alias="about.png">res/about.jpg</file>
+    </qresource>
+</RCC>
